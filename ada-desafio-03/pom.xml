@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.nanotech</groupId>
-    <artifactId>desafio03</artifactId>
+    <artifactId>ada-desafio-03</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
